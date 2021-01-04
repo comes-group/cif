@@ -1,8 +1,8 @@
 # COMES Image Format
 
 This is an image format designed to be as bad and inefficient as possible.
-It is uncompressed, similar to BMP, and uses Polish words instead of binary
-data. Even for storing numbers.
+It is uncompressed, storing raw pixels just like BMP, and uses Polish words
+instead of binary data. Even for storing numbers.
 
 ## Why?
 
