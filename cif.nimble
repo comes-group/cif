@@ -12,3 +12,4 @@ bin           = @["decif", "encif"]
 # Dependencies
 
 requires "nim >= 1.4.2"
+requires "stbimage >= 2.5"

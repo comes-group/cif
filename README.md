@@ -28,6 +28,8 @@ decif [options] <input file> [output file]
 
 Pass `--help` or `-h` to any one of those executables for more info.
 
+You can try `nim-logo.cif` from this repository as an example.
+
 ## Using CIF as a library
 
 I mean, come on. There are better image formats out there. Go use `stb_image`,
